@@ -1,18 +1,47 @@
-## Getting Started
+# Lógica de Programação — Java e Python
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório criado para registrar meus estudos e evolução em lógica de programação, algoritmos e desenvolvimento utilizando Java e Python.
 
-## Folder Structure
+## 🎯 Objetivo
 
-The workspace contains two folders by default, where:
+Praticar fundamentos de programação desde o início, desenvolvendo exercícios em Java e Python e evoluindo gradualmente para conceitos de desenvolvimento, automação, APIs e manipulação de dados.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 💻 Tecnologias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- Python
+- Git
+- GitHub
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📚 Exercícios
 
-## Dependency Management
+### Exercício 01 — Cadastro de Usuário
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Programa que recebe informações do usuário e exibe um resumo do cadastro.
+
+Conceitos praticados:
+
+- Variáveis
+- Tipos de dados
+- Entrada de dados
+- Saída de dados
+- Conversão de tipos
+- `Scanner` em Java
+- `input()` em Python
+- `if` e `else`
+
+Implementações:
+
+- [Java](java/exercicio-01-cadastro/App.java)
+- [Python](python/exercicio-01-cadastro/main.py)
+
+## 🚀 Próximos conteúdos
+
+- Estruturas condicionais
+- Operadores
+- Laços de repetição
+- Arrays e listas
+- Métodos e funções
+- Manipulação de arquivos
+- APIs
+- Automação
